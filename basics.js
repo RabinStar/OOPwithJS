@@ -47,8 +47,10 @@ class Shoe {
 shoe_1 = new Shoe('Dior','Female','7','550Tk.','Primeum')
 shoe_2 = new Shoe('Dior','Female','7','450Tk.','Standard')
 shoe_3 = new Shoe('iShoe','Female','7','950Tk.','Primeum')
+shoe_4 = new Shoe('bShoe','Female','7','850Tk.','Primeum')
 
 // Object Calling
 shoe_1.disPlayShoeInfo()
 shoe_2.disPlayShoeInfo()
 shoe_3.disPlayShoeInfo()
+shoe_4.disPlayShoeInfo()
